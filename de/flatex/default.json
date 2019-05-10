@@ -1,1 +1,33 @@
-
+{
+  "has-headers": true,
+  "date-format": "dmy",
+  "delimiter": ";",
+  "import-account": 0,
+  "specifics": [],
+  "column-count": 10,
+  "column-roles": [
+    "_ignore",
+    "date-transaction",
+    "_ignore",
+    "_ignore",
+    "description",
+    "_ignore",
+    "amount",
+    "currency-code",
+    "_ignore",
+    "account-name"
+  ],
+  "column-do-mapping": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+  ],
+  "apply_rules": true,
+  "match_bills": true
+}
